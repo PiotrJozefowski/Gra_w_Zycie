@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gra_w_Zycie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gra_w_Zycie_jar</output-path>
+    <root id="archive" name="Gra_w_Zycie.jar">
+      <element id="module-output" name="Gra_w_Zycie" />
+    </root>
+  </artifact>
+</component>
